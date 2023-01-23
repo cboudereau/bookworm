@@ -10,7 +10,7 @@
 ## About this Book
  ### Sources
  - [Jetbrains blog (link is dead)](https://blog.jetbrains.com/upsource/category/practices/)
- - [Github (also dead)](JetBrains GitHub repository)
+ - [JetBrains GitHub repository (also dead)](https://github.com/jetbrains/jetbrains-books-examples/whattolookforinacodereview)
 
 ## Introduction (1)
  - [Jeff Atwood's Coding horror blog](https://blog.codinghorror.com/code-reviews-just-do-it/)
@@ -78,12 +78,13 @@
 ## (13)Data Structures
  - Pitfalls (Stream api)
  - Choose the right one
+ - (14)Optional
 
 ## (2)SOLID Principles 
 
 ## Security
  - Automation
- - (14)Reduce dependencies
+ - (15)Reduce dependencies
 
 ## Tooling
  - Upsource
@@ -119,5 +120,6 @@
  - (10) Brendan Gregg Flamegraphs' / [Humans are terrible at guessing about performance](https://github.com/flamegraph-rs/flamegraph#humans-are-terrible-at-guessing-about-performance)
  - (11) [Concurrency is not Parallelism by Rob Pike](https://www.youtube.com/watch?v=oV9rvDllKEg)
  - (12) [TwoHardThings](https://martinfowler.com/bliki/TwoHardThings.html)
- - (13) [Big-O Cheat Sheet](https://www.bigocheatsheet.com/) and [Sort](https://www.youtube.com/playlist?list=PLZh3kxyHrVp_AcOanN_jpuQbcMVdXbqei)
- - (14) [Dependabot](https://docs.github.com/en/enterprise-server@3.4/admin/configuration/configuring-github-connect/enabling-dependabot-for-your-enterprise)
+ - (13) [Optional](https://fsharpforfunandprofit.com/posts/the-option-type/)
+ - (14) [Big-O Cheat Sheet](https://www.bigocheatsheet.com/) and [Sort](https://www.youtube.com/playlist?list=PLZh3kxyHrVp_AcOanN_jpuQbcMVdXbqei)
+ - (15) [Dependabot](https://docs.github.com/en/enterprise-server@3.4/admin/configuration/configuring-github-connect/enabling-dependabot-for-your-enterprise)
