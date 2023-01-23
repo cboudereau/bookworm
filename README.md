@@ -11,7 +11,7 @@ Nothing more to add, notes and references are officially integrated in the book.
 
 ## Annotated/Forked Books
  - [BRAINDUMP - 2020-01 : Functional Programming DDD](https://github.com/cboudereau/fpddd) : DDD Blue book applied to fsharp
-   - [Container Kata + Property Base Testring - 2020-04](https://youtu.be/n81pYPdzW7g)
+   - [2020-04 : Container Kata + Property Base Testring](https://youtu.be/n81pYPdzW7g)
  - [2019-01 : Category Theory for progammers](https://github.com/cboudereau/category-theory-for-dotnet-programmers) : csharp and fsharp annotations
    - [2018-02 : FParsec demo](https://www.meetup.com/functional-programming-in-f/events/247245634/)
    - [2018-04 : NCrafts conf](https://mobile.twitter.com/ncraftsConf/status/983306821984190464)
