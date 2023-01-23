@@ -115,7 +115,7 @@
  - (5)How about Code Complexity metrics ?
  - (6)Exception vs Error : Golang procedural > Code complexity > Generics > Functional Programming (vavr java, fsharp, rust, scala, ...) 
  - (7)How about Property Based Testing ?
- - (8)Does this change require QA sync (Tres Amigos) ?
+ - (8)Does this change requires QA sync (Tres Amigos) ?
  - (9) Type Driven Development > Functional Programming
  - (10) Brendan Gregg Flamegraphs' / [Humans are terrible at guessing about performance](https://github.com/flamegraph-rs/flamegraph#humans-are-terrible-at-guessing-about-performance)
  - (11) [Concurrency is not Parallelism by Rob Pike](https://www.youtube.com/watch?v=oV9rvDllKEg)
