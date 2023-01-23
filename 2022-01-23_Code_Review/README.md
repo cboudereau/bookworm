@@ -1,6 +1,6 @@
 # What to look for in a code review
 
-- ![metrics](https://raw.githubusercontent.com/cboudereau/bookworm/main/2022-01-23_Code_Review/Title.png)
+![title](https://raw.githubusercontent.com/cboudereau/bookworm/main/2022-01-23_Code_Review/Title.png)
 
 ## The author : Trisha Gee
  - Java Champion
